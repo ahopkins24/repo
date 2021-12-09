@@ -8,8 +8,9 @@ This program takes data from all NCAA Division 1 Football stadiums and compiles 
 The user can sort by division, conference, and popular rivalries to get more information on the stadiums all 253 NCAA
 Division 1 Football teams play in.
 """
-
-python -m pip install folium
+>>> exit()
+pip install folium
+python3
 import os
 import webbrowser
 import folium

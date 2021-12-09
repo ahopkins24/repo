@@ -12,6 +12,7 @@ Division 1 Football teams play in.
 import os
 import pandas as pd
 import csv
+import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 import streamlit.components.v1 as components

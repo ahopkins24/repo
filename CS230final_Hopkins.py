@@ -9,7 +9,7 @@ The user can sort by division, conference, and popular rivalries to get more inf
 Division 1 Football teams play in.
 """
 
-$ python -m pip install folium
+python -m pip install folium
 import os
 import webbrowser
 import folium
